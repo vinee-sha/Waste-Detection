@@ -1,0 +1,9 @@
+# train and val data
+train: ../Dataset-Paper/images/train/
+val: ../Dataset-Paper/images/val/
+
+# number of classes
+nc: 7
+
+# class names
+names: ['metals_and_plastic', 'other', 'non_recyclable', 'glass', 'paper', 'bio', 'unknown']
