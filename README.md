@@ -8,7 +8,7 @@ It also contains a file - data.yaml in which all the class names are present.
 
 ### RUN THE PROJECT :
 Get all the data from the GitHub, Open Command prompt or any other Terminal and run the command :    
-&nbsp;&nbsp;git clone https://github.com/vinee-sha/Waste-Detection.git    
+&nbsp;  \$git clone https://github.com/vinee-sha/Waste-Detection.git    
 All the trained weights and the YOLO data are present in YOLOv5 Folder. Move to the YOLOv5 folder in the git using the commands :    
 &nbsp;  \$cd Waste-Detection   
 &nbsp;  \$cd YOLOv5    
