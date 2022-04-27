@@ -15,5 +15,5 @@ All the trained weights and the YOLO data are present in YOLOv5 Folder. Move to 
 Install all the modules and requirements that are needed to run the project with the command :   
 &nbsp;  \$pip install -qr requirements.txt     
 To test the weights, use the images and videos in the images folder under YOLOv5 or insert any images and videos for testing into the images folder and run the test using the command :    
-&nbsp;  \$python detect.py --weights weights/Bio.pt weights/Glass.pt weights/Paper.pt weights/Metal-Plastic.pt --img 640 --source images/IMAGE_NAME    
+&nbsp;  \$python detect.py --weights weights/weight.pt --img 640 --source images/IMAGE_NAME    
 The results are stored into yolov5/runs/detect/exp as mentioned in the output after running the previous command.    
